@@ -1,0 +1,3 @@
+자식요소에 float가 들어가면 부모요소가 높이값을 잃으므로 .items에 height값 주기
+
+flaot:left로 가로정렬해도 되고 이 전 시간에 배운 것처럼 display: inline-block으로 줘도 되지만, 이렇게하면 마진이 생기므로 margin-right의 값을 줘서 조정
